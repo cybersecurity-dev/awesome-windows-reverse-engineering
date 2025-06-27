@@ -1,4 +1,4 @@
-# Awesome Windows Reverse Engineering
+# Awesome [Windows](https://www.apriorit.com/dev-blog/366-software-reverse-engineering-tools) [Reverse](https://www.reddit.com/r/ReverseEngineering/) [Engineering](https://youtube.com/playlist?list=PL9V4Zu3RroiX0PgH9Ahf1wueyGiGprAz7&si=JDxNLcyRYyALGU7B) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
