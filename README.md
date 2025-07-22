@@ -7,6 +7,15 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## Tools
+
+### [Disassembler](https://en.wikipedia.org/wiki/Disassembler)
+
+### [Decompiler](https://en.wikipedia.org/wiki/Decompiler)
+
+### [Debugging](https://en.wikipedia.org/wiki/Debugger) Tools
+
+##
 
 ### Datasets
 You can access the datasets [here](https://github.com/cybersecurity-dev/awesome-malware-datasets?tab=readme-ov-file#windows).
