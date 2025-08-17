@@ -28,6 +28,10 @@ A decompiler is a computer program that translates an executable file back into 
 ### [Debugging](https://en.wikipedia.org/wiki/Debugger) Tools
 A debugger is a computer program used to test and debug other programs (the "target" programs).
 
+## Training
+* [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html)
+* [Malware Reverse Engineering for Beginners](https://intezer.com/blog/malware-reverse-engineering-beginners/)
+
 ##
 
 ### Datasets
