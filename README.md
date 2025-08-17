@@ -30,6 +30,7 @@ A debugger is a computer program used to test and debug other programs (the "tar
 
 ## Training
 * [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html)
+* [Reverse Engineering 102](https://malwareunicorn.org/workshops/re102.html)
 * [Malware Reverse Engineering for Beginners](https://intezer.com/blog/malware-reverse-engineering-beginners/)
 
 ##
