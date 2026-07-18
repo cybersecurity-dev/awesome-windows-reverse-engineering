@@ -30,13 +30,13 @@
 
 ## Tools
 
-### [Disassembler](https://en.wikipedia.org/wiki/Disassembler) Tools
+### [Disassembler](https://wikipedia.org/wiki/Disassembler) Tools
 A disassembler is a computer program that translates machine language into assembly language
 
-### [Decompiler](https://en.wikipedia.org/wiki/Decompiler) Tools
+### [Decompiler](https://wikipedia.org/wiki/Decompiler) Tools
 A decompiler is a computer program that translates an executable file back into high-level source code. 
 
-### [Debugging](https://en.wikipedia.org/wiki/Debugger) Tools
+### [Debugging](https://wikipedia.org/wiki/Debugger) Tools
 A debugger is a computer program used to test and debug other programs (the "target" programs).
 
 ## Training
@@ -60,6 +60,9 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-windows-reverse-engineering-)
 
