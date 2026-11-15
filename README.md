@@ -1,7 +1,7 @@
-<img width="4032" height="547" alt="image" src="https://github.com/user-attachments/assets/6bb7aaa8-43de-4f3b-ab38-ddfb4bca043b" /><div align="center">
+<div align="center">
     <p align="center">
         <a href="">
-          <img width="25%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
+          <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
         </a>
     </p>
 
@@ -89,7 +89,7 @@ flowchart LR
 
 ```mermaid
 flowchart TB
-    ROOT["Windows Reverse Engineering Tool Types"]
+    ROOT["Windows Reverse<br/>Engineering<br/>Tool"]
 
     ROOT --> INSPECT["PE and File Inspection<br/>PE-bear, CFF Explorer, PEStudio<br/>Detect It Easy, strings, sigcheck"]
     ROOT --> DISASM["Disassemblers<br/>Ghidra, IDA Free, Binary Ninja<br/>radare2, Cutter, Capstone"]
